@@ -6,3 +6,5 @@
 - 設計
 - 撰碼
 - 測試
+- 
+https://trello.com/b/wOwf7z7Y/nkfust
